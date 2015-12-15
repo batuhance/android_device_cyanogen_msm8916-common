@@ -194,3 +194,6 @@ PRODUCT_COPY_FILES += \
 ifneq ($(QCPATH),)
 PRODUCT_BOOT_JARS += WfdCommon
 endif
+
+# TWRP
+PRODUCT_COPY_FILES += device/cyanogen/msm8916/twrp.fstab:recovery/root/etc/twrp.fstab
