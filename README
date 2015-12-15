@@ -1,1 +1,7 @@
-Shared device tree for Cyanogen msm8916 devices
+Shared device tree for Cyanogen msm8916 devices.
+
+This device tree modified for ZTE inTouch4 for development purposes. 
+
+Please <b>DO NOT</b> use for daily builds. 
+
+Not responsible for any damage on your device.
